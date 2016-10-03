@@ -17,6 +17,14 @@
 		Sample setup of a Mavenized IS Package
 	</description>
 
+	<licenses>
+		<license>
+			<name>The MIT License (MIT)</name>
+			<url>https://opensource.org/licenses/MIT</url>
+			<distribution>manual</distribution>
+		</license>
+	</licenses>
+
 	<dependencies>
 	    <!-- You can declare other package dependencies here and perform some checkout and merge magic -->
 	
